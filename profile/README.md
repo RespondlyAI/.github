@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="banner 2.png" alt="RespondlyAI Banner" width="100%" style="border-radius: 20px;">
+<img src="../banner 2.png" alt="RespondlyAI Banner" width="100%" style="border-radius: 20px;">
 </div>
 
 <br>
