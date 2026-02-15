@@ -1,4 +1,4 @@
-<img src="banner 2.jpeg" alt="RespondlyAI Banner" width="100%" style="border-radius: 20px;">
+<img src="banner 2.png" alt="RespondlyAI Banner" width="100%" style="border-radius: 20px;">
 
 <br>
 
